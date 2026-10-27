@@ -1,0 +1,122 @@
+{
+ "titulo": "Processadores de pagamento em cripto",
+ "revisao": "27/10/2026",
+ "aviso": "A lista não é recomendação. Confira a autorização do Banco Central antes de contratar.",
+ "colunas": [
+  "Processador",
+  "Autorização no Brasil",
+  "Converte para reais? Prazo",
+  "Lightning",
+  "Custo total",
+  "Integrações (loja, nota fiscal)",
+  "Revisado em"
+ ],
+ "grupos": {
+  "Sem custódia (recebe em bitcoin na sua carteira)": [
+   0,
+   1,
+   2
+  ],
+  "Com conversão para reais": [
+   3,
+   6,
+   7
+  ],
+  "Estrangeiros com custódia": [
+   4,
+   5
+  ]
+ },
+ "linhas": [
+  [
+   "BTCPay Server (software livre)",
+   "Não se aplica: é um programa que você instala; não guarda nem converte moedas",
+   "Não. O bitcoin cai direto na sua carteira",
+   "Sim",
+   "0% de taxa da plataforma; você paga o servidor (próprio ou hospedado) e as taxas da rede",
+   "WooCommerce (versão 2.8.6, de 20/10/2026), Shopify e outras; nota fiscal à parte",
+   "27/10/2026"
+  ],
+  [
+   "Coinsnap (Sérvia)",
+   "Não atua como prestadora autorizada no Brasil; é software sem custódia",
+   "Não no Brasil: o saque bancário dos parceiros (DFX, Bringin) cita só euro",
+   "Sim",
+   "1% por transação, descontado de crédito pré-pago",
+   "WooCommerce, Shopify, Magento, PrestaShop, Wix e outras; nota fiscal à parte",
+   "27/10/2026"
+  ],
+  [
+   "Blink (carteira Lightning)",
+   "Não atua como prestadora autorizada no Brasil",
+   "Não",
+   "Sim",
+   "Não publicado para lojista",
+   "Caixa registradora no celular (PDV) e endereço Lightning; sem plugin de nota fiscal",
+   "27/10/2026"
+  ],
+  [
+   "Binance Pay (comerciante)",
+   "Binance tem licença do Banco Central de emissora de moeda eletrônica e corretora de valores (jan/2025); pedido como prestadora de ativos virtuais: conferir na consulta do Banco Central",
+   "Sim, à escolha do lojista residente no Brasil (lançamento em ago/2023); prazo não publicado",
+   "Não informado no Binance Pay",
+   "Não publicado para lojista; saque 0,80%, até US$ 5 (dez/2024)",
+   "WooCommerce, checkout web e QR no app; nota fiscal à parte",
+   "27/10/2026"
+  ],
+  [
+   "OpenNode (EUA)",
+   "Não atua como prestadora autorizada no Brasil",
+   "Converte de graça e lista o real entre as moedas; saque para banco no Brasil não confirmado",
+   "Sim",
+   "1% por transação",
+   "Shopify, WooCommerce, Magento e BigCommerce",
+   "27/10/2026"
+  ],
+  [
+   "Strike Business (EUA)",
+   "Brasil está na lista de países atendidos; sem autorização brasileira",
+   "Não: liquida em dólar ou mantém em bitcoin",
+   "Sim",
+   "Não publicado",
+   "Shopify, PDV, cobrança e API",
+   "27/10/2026"
+  ],
+  [
+   "Redecoin (CNPJ 33.907.710/0001-59)",
+   "Não consta entre os pedidos noticiados até 19/10/2026; conferir na consulta do Banco Central",
+   "Sim, opcional e na hora; saque em 48 horas",
+   "Não informado",
+   "Sob consulta; R$ 0,10 por venda abaixo de R$ 8,80; saque sem taxa (só a TED)",
+   "OpenCart, Magento, Loja Mestre e script para o site",
+   "27/10/2026"
+  ],
+  [
+   "PagueComBitcoin (Citar Tech, CNPJ 19.004.882/0001-91)",
+   "Não consta entre os pedidos noticiados até 19/10/2026; conferir na consulta do Banco Central",
+   "Sim, em tempo real; prazo do saque não publicado",
+   "Não informado",
+   "Não publicado na página",
+   "WooCommerce, Magento e API. Alerta: site com marca de 2020",
+   "27/10/2026"
+  ]
+ ],
+ "fora_da_lista": [
+  [
+   "BitPay",
+   "O Brasil está na lista de países não atendidos (página atualizada em 03/10/2026)"
+  ],
+  [
+   "Coinbase Commerce",
+   "Encerrado fora dos EUA e de Singapura em 31/03/2026"
+  ],
+  [
+   "Mycelium Gear",
+   "Plugin retirado em 22/09/2025"
+  ],
+  [
+   "PagueBit",
+   "Faz o inverso: o cliente paga em Pix e o lojista recebe em cripto"
+  ]
+ ]
+}
