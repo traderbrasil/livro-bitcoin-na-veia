@@ -1,0 +1,60 @@
+{
+ "titulo": "Tabela 5.1 Volatilidade e correlação do ether com o Bitcoin, por ano",
+ "fonte": "Yahoo Finance, dias úteis (Laboratório II, Parte 1b). *Até 30/09/2026.",
+ "colunas": [
+  "Ano",
+  "Volatilidade do ether",
+  "Volatilidade do Bitcoin",
+  "Correlação diária"
+ ],
+ "linhas": [
+  [
+   "2018",
+   "105%",
+   "76%",
+   "+0,76"
+  ],
+  [
+   "2020",
+   "95%",
+   "71%",
+   "+0,85"
+  ],
+  [
+   "2021",
+   "107%",
+   "78%",
+   "+0,72"
+  ],
+  [
+   "2022",
+   "86%",
+   "63%",
+   "+0,90"
+  ],
+  [
+   "2023",
+   "49%",
+   "46%",
+   "+0,85"
+  ],
+  [
+   "2024",
+   "66%",
+   "56%",
+   "+0,82"
+  ],
+  [
+   "2025",
+   "70%",
+   "39%",
+   "+0,81"
+  ],
+  [
+   "2026*",
+   "60%",
+   "44%",
+   "+0,91"
+  ]
+ ]
+}

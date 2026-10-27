@@ -1,0 +1,45 @@
+{
+ "titulo": "Quadro 6.2 Roteiro para avaliar uma altcoin",
+ "colunas": [
+  "Pergunta",
+  "O que procurar",
+  "Sinal de alerta"
+ ],
+ "linhas": [
+  [
+   "Que problema resolve?",
+   "Uso real, medido em taxas pagas ou usuários ativos",
+   "Só promessas e parcerias anunciadas"
+  ],
+  [
+   "Quem controla a emissão?",
+   "Tabela pública e previsível",
+   "Grandes desbloqueios para fundadores e fundos"
+  ],
+  [
+   "A rede é segura?",
+   "Muitos validadores ou mineradores independentes",
+   "Rede pequena, sujeita a ataque de 51% (Capítulo 4)"
+  ],
+  [
+   "Depende de uma empresa?",
+   "Funciona mesmo se a fundação sumir",
+   "Uma empresa decide tudo"
+  ],
+  [
+   "É valor mobiliário?",
+   "Regras claras de oferta",
+   "Promessa de lucro pelo esforço da equipe (CVM, PO 40/2022)"
+  ],
+  [
+   "Tem liquidez?",
+   "Volume em várias corretoras autorizadas",
+   "Negociada em um ou dois lugares"
+  ],
+  [
+   "Bate o Bitcoin?",
+   "Força relativa contra o Bitcoin em alta",
+   "Cai em bitcoins há anos (Capítulo 13)"
+  ]
+ ]
+}

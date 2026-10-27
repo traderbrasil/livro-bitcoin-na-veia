@@ -1,0 +1,428 @@
+[
+ {
+  "termo": "airdrop",
+  "variante": "",
+  "definicao": "distribuição gratuita de tokens aos usuários de uma rede ou de um aplicativo",
+  "onde": "Capítulo 17",
+  "links": [
+   "cap-17"
+  ]
+ },
+ {
+  "termo": "altcoin",
+  "variante": "",
+  "definicao": "qualquer criptomoeda que não seja o bitcoin",
+  "onde": "Capítulo 6",
+  "links": [
+   "cap-6"
+  ]
+ },
+ {
+  "termo": "ataque de 51%",
+  "variante": "",
+  "definicao": "controle de mais da metade da força de mineração de uma rede, que permite reverter as próprias transações",
+  "onde": "Capítulos 4 e 16",
+  "links": [
+   "cap-4",
+   "cap-16"
+  ]
+ },
+ {
+  "termo": "ATR",
+  "variante": "",
+  "definicao": "amplitude média verdadeira, a medida da variação diária usada para definir o stop",
+  "onde": "Capítulos 12 e 18",
+  "links": [
+   "cap-12",
+   "cap-18"
+  ]
+ },
+ {
+  "termo": "autocustódia",
+  "variante": "",
+  "definicao": "guardar as próprias chaves, sem uma corretora no meio",
+  "onde": "Capítulos 7 e 17",
+  "links": [
+   "cap-7",
+   "cap-17"
+  ]
+ },
+ {
+  "termo": "BDR",
+  "variante": "",
+  "definicao": "recibo negociado na B3 que representa um ativo do exterior, como o IBIT39",
+  "onde": "Capítulo 9",
+  "links": [
+   "cap-9"
+  ]
+ },
+ {
+  "termo": "BIP",
+  "variante": "",
+  "definicao": "proposta de melhoria do Bitcoin, o documento que descreve uma mudança no protocolo",
+  "onde": "Capítulo 4",
+  "links": [
+   "cap-4"
+  ]
+ },
+ {
+  "termo": "bloco gênese",
+  "variante": "",
+  "definicao": "o primeiro bloco da cadeia do Bitcoin, de 03/01/2009",
+  "onde": "Capítulo 1",
+  "links": [
+   "cap-1"
+  ]
+ },
+ {
+  "termo": "cadeia de blocos",
+  "variante": "*blockchain*",
+  "definicao": "o registro público de todas as transações, em blocos ligados por hashes",
+  "onde": "Capítulo 1",
+  "links": [
+   "cap-1"
+  ]
+ },
+ {
+  "termo": "carteira fria e carteira quente",
+  "variante": "",
+  "definicao": "carteira sem e com ligação à internet",
+  "onde": "Capítulo 7",
+  "links": [
+   "cap-7"
+  ]
+ },
+ {
+  "termo": "chave privada e chave pública",
+  "variante": "",
+  "definicao": "o par criptográfico que dá o direito de gastar as moedas e o endereço que recebe",
+  "onde": "Capítulos 1 e 7",
+  "links": [
+   "cap-1",
+   "cap-7"
+  ]
+ },
+ {
+  "termo": "contrato inteligente",
+  "variante": "",
+  "definicao": "programa que roda numa cadeia de blocos e executa regras sem intermediário",
+  "onde": "Capítulo 5",
+  "links": [
+   "cap-5"
+  ]
+ },
+ {
+  "termo": "contrato perpétuo",
+  "variante": "",
+  "definicao": "derivativo sem vencimento, ajustado pela taxa de financiamento",
+  "onde": "Capítulo 10",
+  "links": [
+   "cap-10"
+  ]
+ },
+ {
+  "termo": "corretora descentralizada",
+  "variante": "DEX",
+  "definicao": "aplicativo que troca tokens a partir de reservas dos próprios usuários",
+  "onde": "Capítulo 6",
+  "links": [
+   "cap-6"
+  ]
+ },
+ {
+  "termo": "custo médio",
+  "variante": "",
+  "definicao": "o custo de aquisição de todas as compras dividido pela quantidade, base do imposto",
+  "onde": "Capítulo 17",
+  "links": [
+   "cap-17"
+  ]
+ },
+ {
+  "termo": "DeCripto",
+  "variante": "",
+  "definicao": "declaração mensal de operações com cripto à Receita, desde 01/07/2026",
+  "onde": "Capítulo 17",
+  "links": [
+   "cap-17"
+  ]
+ },
+ {
+  "termo": "DeFi",
+  "variante": "",
+  "definicao": "finanças descentralizadas, os serviços financeiros feitos por contratos inteligentes",
+  "onde": "Capítulo 6",
+  "links": [
+   "cap-6"
+  ]
+ },
+ {
+  "termo": "ETF",
+  "variante": "",
+  "definicao": "fundo de índice negociado em bolsa",
+  "onde": "Capítulo 9",
+  "links": [
+   "cap-9"
+  ]
+ },
+ {
+  "termo": "frase-semente",
+  "variante": "",
+  "definicao": "as 12 ou 24 palavras que recuperam uma carteira",
+  "onde": "Capítulo 7",
+  "links": [
+   "cap-7"
+  ]
+ },
+ {
+  "termo": "futuro",
+  "variante": "",
+  "definicao": "contrato de compra ou venda numa data futura, negociado em bolsa",
+  "onde": "Capítulo 10",
+  "links": [
+   "cap-10"
+  ]
+ },
+ {
+  "termo": "gap da CME",
+  "variante": "",
+  "definicao": "o espaço no gráfico do futuro entre o fechamento de sexta e a abertura de domingo",
+  "onde": "Capítulo 13",
+  "links": [
+   "cap-13"
+  ]
+ },
+ {
+  "termo": "halving",
+  "variante": "",
+  "definicao": "o corte pela metade da recompensa dos mineradores, a cada 210 mil blocos",
+  "onde": "Capítulos 3 e 13",
+  "links": [
+   "cap-3",
+   "cap-13"
+  ]
+ },
+ {
+  "termo": "hard fork e soft fork",
+  "variante": "",
+  "definicao": "mudança nas regras que cria outra moeda ou que continua compatível com a anterior",
+  "onde": "Capítulo 4",
+  "links": [
+   "cap-4"
+  ]
+ },
+ {
+  "termo": "hash",
+  "variante": "",
+  "definicao": "impressão digital de um conjunto de dados, como o SHA-256",
+  "onde": "Capítulos 1 e 3",
+  "links": [
+   "cap-1",
+   "cap-3"
+  ]
+ },
+ {
+  "termo": "IFR",
+  "variante": "",
+  "definicao": "índice de força relativa, o oscilador de sobrecompra e sobrevenda",
+  "onde": "Capítulo 12",
+  "links": [
+   "cap-12"
+  ]
+ },
+ {
+  "termo": "Lightning",
+  "variante": "",
+  "definicao": "a rede de pagamentos rápidos por cima do Bitcoin",
+  "onde": "Capítulo 4 e Apêndice A",
+  "links": [
+   "cap-4",
+   "apendice-a"
+  ]
+ },
+ {
+  "termo": "liquidação",
+  "variante": "",
+  "definicao": "fechamento forçado de uma posição alavancada ou de um empréstimo quando a garantia não basta",
+  "onde": "Capítulos 6 e 10",
+  "links": [
+   "cap-6",
+   "cap-10"
+  ]
+ },
+ {
+  "termo": "mempool",
+  "variante": "",
+  "definicao": "a fila de transações que esperam entrar num bloco",
+  "onde": "Capítulo 1",
+  "links": [
+   "cap-1"
+  ]
+ },
+ {
+  "termo": "mineração e prova de trabalho",
+  "variante": "",
+  "definicao": "o processo de criar blocos gastando energia em cálculos de hash",
+  "onde": "Capítulo 3",
+  "links": [
+   "cap-3"
+  ]
+ },
+ {
+  "termo": "multiassinatura",
+  "variante": "",
+  "definicao": "carteira que exige mais de uma chave para gastar, como 2 de 3",
+  "onde": "Capítulo 7",
+  "links": [
+   "cap-7"
+  ]
+ },
+ {
+  "termo": "múltiplo de Mayer",
+  "variante": "",
+  "definicao": "o preço dividido pela média de 200 dias",
+  "onde": "Capítulo 13",
+  "links": [
+   "cap-13"
+  ]
+ },
+ {
+  "termo": "NFT",
+  "variante": "",
+  "definicao": "token não fungível, um certificado de propriedade na cadeia de blocos",
+  "onde": "Capítulo 6",
+  "links": [
+   "cap-6"
+  ]
+ },
+ {
+  "termo": "oráculo",
+  "variante": "",
+  "definicao": "serviço que informa preços do mundo de fora a um contrato inteligente",
+  "onde": "Capítulo 6",
+  "links": [
+   "cap-6"
+  ]
+ },
+ {
+  "termo": "permuta",
+  "variante": "",
+  "definicao": "troca de uma cripto por outra; para o imposto, é venda",
+  "onde": "Capítulo 17",
+  "links": [
+   "cap-17"
+  ]
+ },
+ {
+  "termo": "pool",
+  "variante": "",
+  "definicao": "associação de mineradores que somam a força das máquinas e dividem a recompensa",
+  "onde": "Capítulos 3 e 16",
+  "links": [
+   "cap-3",
+   "cap-16"
+  ]
+ },
+ {
+  "termo": "prova de participação",
+  "variante": "",
+  "definicao": "consenso em que os validadores travam moedas, em vez de gastar energia",
+  "onde": "Capítulo 5",
+  "links": [
+   "cap-5"
+  ]
+ },
+ {
+  "termo": "prova de reservas",
+  "variante": "",
+  "definicao": "demonstração de que a corretora tem os ativos que deve aos clientes",
+  "onde": "Capítulo 8",
+  "links": [
+   "cap-8"
+  ]
+ },
+ {
+  "termo": "PSAV",
+  "variante": "",
+  "definicao": "prestadora de serviços de ativos virtuais, a empresa autorizada pelo Banco Central",
+  "onde": "Capítulos 8 e 17",
+  "links": [
+   "cap-8",
+   "cap-17"
+  ]
+ },
+ {
+  "termo": "satoshi",
+  "variante": "",
+  "definicao": "a menor unidade do bitcoin, um centésimo de milionésimo",
+  "onde": "Capítulo 1",
+  "links": [
+   "cap-1"
+  ]
+ },
+ {
+  "termo": "SegWit e Taproot",
+  "variante": "",
+  "definicao": "as atualizações do Bitcoin de 2017 e de 2021",
+  "onde": "Capítulo 4",
+  "links": [
+   "cap-4"
+  ]
+ },
+ {
+  "termo": "stablecoin",
+  "variante": "",
+  "definicao": "token que busca manter o valor de uma moeda, como o dólar",
+  "onde": "Capítulo 6",
+  "links": [
+   "cap-6"
+  ]
+ },
+ {
+  "termo": "staking",
+  "variante": "",
+  "definicao": "travar moedas para validar uma rede de prova de participação, em troca de recompensa",
+  "onde": "Capítulos 5 e 17",
+  "links": [
+   "cap-5",
+   "cap-17"
+  ]
+ },
+ {
+  "termo": "taxa de financiamento",
+  "variante": "",
+  "definicao": "o pagamento periódico entre comprados e vendidos nos contratos perpétuos",
+  "onde": "Capítulos 10 e 14",
+  "links": [
+   "cap-10",
+   "cap-14"
+  ]
+ },
+ {
+  "termo": "TD Setup",
+  "variante": "",
+  "definicao": "a contagem de nove barras de Tom DeMark",
+  "onde": "Capítulo 13",
+  "links": [
+   "cap-13"
+  ]
+ },
+ {
+  "termo": "token",
+  "variante": "",
+  "definicao": "ativo criado por um contrato numa rede que já existe",
+  "onde": "Capítulo 6",
+  "links": [
+   "cap-6"
+  ]
+ },
+ {
+  "termo": "valor travado",
+  "variante": "TVL",
+  "definicao": "o total depositado nos contratos de DeFi",
+  "onde": "Capítulo 6",
+  "links": [
+   "cap-6"
+  ]
+ }
+]

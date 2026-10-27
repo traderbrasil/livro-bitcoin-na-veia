@@ -1,0 +1,24 @@
+{
+ "repositorio": "https://github.com/traderbrasil/livro-bitcoin-na-veia",
+ "colab": {
+  "LINK_COLAB_1": "https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab1_fundamentos.ipynb",
+  "LINK_COLAB_2": "https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab2_ecossistema.ipynb",
+  "LINK_COLAB_3": "https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab3_veiculos.ipynb",
+  "LINK_COLAB_4": "https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab4_analise.ipynb",
+  "LINK_COLAB_5": "https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab5_risco_ir.ipynb"
+ },
+ "download_notebook": {
+  "lab-1": "/bitcoin-na-veia/labs/lab1_fundamentos.ipynb",
+  "lab-2": "/bitcoin-na-veia/labs/lab2_ecossistema.ipynb",
+  "lab-3": "/bitcoin-na-veia/labs/lab3_veiculos.ipynb",
+  "lab-4": "/bitcoin-na-veia/labs/lab4_analise.ipynb",
+  "lab-5": "/bitcoin-na-veia/labs/lab5_risco_ir.ipynb"
+ },
+ "podcast": {
+  "tom_demark": "https://youtu.be/NRQ6anOsoqM",
+  "brett_steenbarger": "https://youtu.be/ZG52JawNS6M",
+  "jamie_coutts": "https://www.youtube.com/watch?v=U9fEeOkCJ3o"
+ },
+ "LINK_BCB_PSAV": "https://www.bcb.gov.br/estabilidadefinanceira/encontreinstituicao",
+ "LINK_KINDLE": "(ASIN sai depois da publicação no KDP; até lá, manter a busca)"
+}

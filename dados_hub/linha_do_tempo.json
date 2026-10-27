@@ -1,0 +1,457 @@
+[
+ {
+  "d": "31/10/2008",
+  "t": "Satoshi Nakamoto publica o artigo do Bitcoin",
+  "c": "1",
+  "link": "cap-1",
+  "g": "protocolo"
+ },
+ {
+  "d": "03/01/2009",
+  "t": "Bloco gênese, com a manchete do The Times",
+  "c": "1",
+  "link": "cap-1",
+  "g": "protocolo"
+ },
+ {
+  "d": "12/01/2009",
+  "t": "Primeira transação entre pessoas: 10 bitcoins de Satoshi para Hal Finney",
+  "c": "1",
+  "link": "cap-1",
+  "g": "protocolo"
+ },
+ {
+  "d": "22/05/2010",
+  "t": "A compra das duas pizzas por 10.000 bitcoins",
+  "c": "1",
+  "link": "cap-1",
+  "g": "protocolo"
+ },
+ {
+  "d": "15/08/2010",
+  "t": "Erro de software cria cerca de 184 bilhões de bitcoins; corrigido em horas",
+  "c": "16",
+  "link": "cap-16",
+  "g": "quebras"
+ },
+ {
+  "d": "28/11/2012",
+  "t": "1º halving: a recompensa cai de 50 para 25 bitcoins",
+  "c": "3",
+  "link": "cap-3",
+  "g": "protocolo"
+ },
+ {
+  "d": "Abr/2013",
+  "t": "O bitcoin cai de US$ 266 para US$ 54 em dois dias na Mt. Gox",
+  "c": "16",
+  "link": "cap-16",
+  "g": "quebras"
+ },
+ {
+  "d": "Fev/2014",
+  "t": "A Mt. Gox para os saques e quebra, com cerca de 850 mil bitcoins sumidos",
+  "c": "8 e 16",
+  "link": "cap-8",
+  "g": "quebras"
+ },
+ {
+  "d": "Jun/2014",
+  "t": "O pool GHash.io passa brevemente de 50% da força da rede",
+  "c": "16",
+  "link": "cap-16",
+  "g": "quebras"
+ },
+ {
+  "d": "30/07/2015",
+  "t": "A rede Ethereum entra no ar",
+  "c": "5",
+  "link": "cap-5",
+  "g": "protocolo"
+ },
+ {
+  "d": "09/07/2016",
+  "t": "2º halving: a recompensa cai para 12,5 bitcoins",
+  "c": "3 e 13",
+  "link": "cap-3",
+  "g": "protocolo"
+ },
+ {
+  "d": "20/07/2016",
+  "t": "Hard fork do The DAO; nasce o Ethereum Classic",
+  "c": "5",
+  "link": "cap-5",
+  "g": "protocolo"
+ },
+ {
+  "d": "Ago/2016",
+  "t": "A Bitfinex perde 119.756 bitcoins num ataque",
+  "c": "8 e 16",
+  "link": "cap-8",
+  "g": "quebras"
+ },
+ {
+  "d": "01/08/2017",
+  "t": "Nasce o Bitcoin Cash",
+  "c": "4",
+  "link": "cap-4",
+  "g": "protocolo"
+ },
+ {
+  "d": "24/08/2017",
+  "t": "Ativação do SegWit, no bloco 481.824",
+  "c": "4",
+  "link": "cap-4",
+  "g": "protocolo"
+ },
+ {
+  "d": "10/12/2017",
+  "t": "A Cboe lança o primeiro futuro de bitcoin",
+  "c": "10",
+  "link": "cap-10",
+  "g": "produtos"
+ },
+ {
+  "d": "16/12/2017",
+  "t": "Topo do ciclo: US$ 19.497",
+  "c": "12 e 15",
+  "link": "cap-12",
+  "g": "mercado"
+ },
+ {
+  "d": "17/12/2017",
+  "t": "A CME lança o futuro de bitcoin",
+  "c": "10",
+  "link": "cap-10",
+  "g": "produtos"
+ },
+ {
+  "d": "15/12/2018",
+  "t": "Fundo do ciclo: US$ 3.237",
+  "c": "12 e 15",
+  "link": "cap-12",
+  "g": "mercado"
+ },
+ {
+  "d": "Jun/2019",
+  "t": "Último vencimento do futuro de bitcoin da Cboe",
+  "c": "10",
+  "link": "cap-10",
+  "g": "produtos"
+ },
+ {
+  "d": "13/01/2020",
+  "t": "Opções sobre o futuro de bitcoin na CME",
+  "c": "10",
+  "link": "cap-10",
+  "g": "produtos"
+ },
+ {
+  "d": "12/03/2020",
+  "t": "O pior dia do bitcoin: −37,2%, na crise da Covid",
+  "c": "16",
+  "link": "cap-16",
+  "g": "mercado"
+ },
+ {
+  "d": "11/05/2020",
+  "t": "3º halving: a recompensa cai para 6,25 bitcoins",
+  "c": "3 e 13",
+  "link": "cap-3",
+  "g": "protocolo"
+ },
+ {
+  "d": "Jun/2020",
+  "t": "O token COMP dá a largada no “verão do DeFi”",
+  "c": "6",
+  "link": "cap-6",
+  "g": "produtos"
+ },
+ {
+  "d": "11/08/2020",
+  "t": "A MicroStrategy, hoje Strategy, compra os primeiros bitcoins para o caixa",
+  "c": "9",
+  "link": "cap-9",
+  "g": "produtos"
+ },
+ {
+  "d": "26/11/2020",
+  "t": "Erro de preço do oráculo liquida cerca de US$ 88 milhões na Compound",
+  "c": "6",
+  "link": "cap-6",
+  "g": "quebras"
+ },
+ {
+  "d": "18/02/2021",
+  "t": "Primeiro ETF de bitcoin à vista do mundo, em Toronto",
+  "c": "9",
+  "link": "cap-9",
+  "g": "produtos"
+ },
+ {
+  "d": "26/04/2021",
+  "t": "HASH11, o primeiro ETF de cripto da B3",
+  "c": "9",
+  "link": "cap-9",
+  "g": "produtos"
+ },
+ {
+  "d": "07/09/2021",
+  "t": "El Salvador torna o bitcoin moeda de curso legal",
+  "c": "2",
+  "link": "cap-2",
+  "g": "regulacao"
+ },
+ {
+  "d": "19/10/2021",
+  "t": "BITO, o primeiro ETF americano de bitcoin, de futuros",
+  "c": "9",
+  "link": "cap-9",
+  "g": "produtos"
+ },
+ {
+  "d": "08/11/2021",
+  "t": "Topo do ciclo: US$ 67.567",
+  "c": "12 e 15",
+  "link": "cap-12",
+  "g": "mercado"
+ },
+ {
+  "d": "14/11/2021",
+  "t": "Ativação do Taproot, no bloco 709.632",
+  "c": "4",
+  "link": "cap-4",
+  "g": "protocolo"
+ },
+ {
+  "d": "Mai/2022",
+  "t": "A stablecoin TerraUSD perde a paridade e quebra",
+  "c": "6 e 8",
+  "link": "cap-6",
+  "g": "quebras"
+ },
+ {
+  "d": "Jul/2022",
+  "t": "A Celsius pede falência",
+  "c": "6 e 8",
+  "link": "cap-6",
+  "g": "quebras"
+ },
+ {
+  "d": "15/09/2022",
+  "t": "The Merge: o Ethereum passa à prova de participação",
+  "c": "5",
+  "link": "cap-5",
+  "g": "protocolo"
+ },
+ {
+  "d": "11/10/2022",
+  "t": "CVM publica o Parecer de Orientação 40, sobre tokens",
+  "c": "6",
+  "link": "cap-6",
+  "g": "regulacao"
+ },
+ {
+  "d": "Nov/2022",
+  "t": "A FTX quebra",
+  "c": "8",
+  "link": "cap-8",
+  "g": "quebras"
+ },
+ {
+  "d": "21/11/2022",
+  "t": "Fundo do ciclo: US$ 15.787",
+  "c": "12 e 15",
+  "link": "cap-12",
+  "g": "mercado"
+ },
+ {
+  "d": "21/12/2022",
+  "t": "Lei 14.478, o marco legal dos ativos virtuais",
+  "c": "17",
+  "link": "cap-17",
+  "g": "regulacao"
+ },
+ {
+  "d": "Fev/2023",
+  "t": "A LocalBitcoins encerra as operações",
+  "c": "Ap. A",
+  "link": "apendice-a",
+  "g": "quebras"
+ },
+ {
+  "d": "11/03/2023",
+  "t": "Na quebra do Silicon Valley Bank, o USDC fecha a US$ 0,97",
+  "c": "6",
+  "link": "cap-6",
+  "g": "quebras"
+ },
+ {
+  "d": "13/03/2023",
+  "t": "A Euler Finance perde cerca de US$ 197 milhões num ataque",
+  "c": "6",
+  "link": "cap-6",
+  "g": "quebras"
+ },
+ {
+  "d": "12/12/2023",
+  "t": "Lei 14.754, sobre investimentos no exterior, em vigor a partir de 01/01/2024",
+  "c": "17",
+  "link": "cap-17",
+  "g": "regulacao"
+ },
+ {
+  "d": "10/01/2024",
+  "t": "A SEC aprova os ETFs de bitcoin à vista; negociação a partir de 11/01",
+  "c": "9",
+  "link": "cap-9",
+  "g": "produtos"
+ },
+ {
+  "d": "01/03/2024",
+  "t": "IBIT39, o BDR do maior ETF de bitcoin, na B3",
+  "c": "9",
+  "link": "cap-9",
+  "g": "produtos"
+ },
+ {
+  "d": "17/04/2024",
+  "t": "A B3 lança o futuro de bitcoin",
+  "c": "10",
+  "link": "cap-10",
+  "g": "produtos"
+ },
+ {
+  "d": "20/04/2024",
+  "t": "4º halving: a recompensa cai para 3,125 bitcoins",
+  "c": "3 e 13",
+  "link": "cap-3",
+  "g": "protocolo"
+ },
+ {
+  "d": "23/07/2024",
+  "t": "ETFs de ether à vista nos EUA",
+  "c": "9",
+  "link": "cap-9",
+  "g": "produtos"
+ },
+ {
+  "d": "19/11/2024",
+  "t": "Opções sobre o IBIT",
+  "c": "10",
+  "link": "cap-10",
+  "g": "produtos"
+ },
+ {
+  "d": "Fev/2025",
+  "t": "Ataque à Bybit leva cerca de US$ 1,5 bilhão em ether",
+  "c": "8",
+  "link": "cap-8",
+  "g": "quebras"
+ },
+ {
+  "d": "06/03/2025",
+  "t": "Ordem executiva cria a Reserva Estratégica de Bitcoin dos EUA",
+  "c": "2",
+  "link": "cap-2",
+  "g": "regulacao"
+ },
+ {
+  "d": "18/07/2025",
+  "t": "Lei GENIUS, das stablecoins, nos EUA",
+  "c": "6",
+  "link": "cap-6",
+  "g": "regulacao"
+ },
+ {
+  "d": "06/10/2025",
+  "t": "Topo do ciclo: US$ 124.753",
+  "c": "12 e 15",
+  "link": "cap-12",
+  "g": "mercado"
+ },
+ {
+  "d": "08/10/2025",
+  "t": "A Medida Provisória 1.303, que acabava com a isenção de R$ 35 mil, perde a validade",
+  "c": "17",
+  "link": "cap-17",
+  "g": "regulacao"
+ },
+ {
+  "d": "10/10/2025",
+  "t": "US$ 19,16 bilhões em liquidações num único dia",
+  "c": "10 e 11",
+  "link": "cap-10",
+  "g": "mercado"
+ },
+ {
+  "d": "10/11/2025",
+  "t": "Banco Central publica as Resoluções 519, 520 e 521",
+  "c": "8 e 17",
+  "link": "cap-8",
+  "g": "regulacao"
+ },
+ {
+  "d": "02/02/2026",
+  "t": "As resoluções do Banco Central entram em vigor",
+  "c": "8 e 17",
+  "link": "cap-8",
+  "g": "regulacao"
+ },
+ {
+  "d": "11/02/2026",
+  "t": "A BIP 360, sobre resistência quântica, é publicada",
+  "c": "4 e 16",
+  "link": "cap-4",
+  "g": "protocolo"
+ },
+ {
+  "d": "29/04/2026",
+  "t": "Receita cria o código de DARF 1897 para cripto",
+  "c": "17",
+  "link": "cap-17",
+  "g": "regulacao"
+ },
+ {
+  "d": "29/05/2026",
+  "t": "A CME passa a negociar cripto 24 horas por dia, 7 dias por semana",
+  "c": "10",
+  "link": "cap-10",
+  "g": "produtos"
+ },
+ {
+  "d": "30/06/2026",
+  "t": "Fundo do ciclo até a data de corte: US$ 58.559",
+  "c": "12 e 15",
+  "link": "cap-12",
+  "g": "mercado"
+ },
+ {
+  "d": "01/07/2026",
+  "t": "A DeCripto substitui a declaração da IN 1.888",
+  "c": "17",
+  "link": "cap-17",
+  "g": "regulacao"
+ },
+ {
+  "d": "23/09/2026",
+  "t": "A BitMEX encerra a negociação",
+  "c": "10",
+  "link": "cap-10",
+  "g": "produtos"
+ },
+ {
+  "d": "30/09/2026",
+  "t": "Data de corte dos dados do livro: US$ 83.554",
+  "c": "—",
+  "link": "",
+  "g": "mercado"
+ },
+ {
+  "d": "30/10/2026",
+  "t": "Fim do prazo para as corretoras pedirem autorização ao Banco Central",
+  "c": "8 e 17",
+  "link": "cap-8",
+  "g": "regulacao"
+ }
+]

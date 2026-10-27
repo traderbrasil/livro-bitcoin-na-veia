@@ -1,0 +1,90 @@
+{
+ "bases_de_dados": {
+  "colunas": [
+   "Fonte",
+   "O que forneceu",
+   "Endereço"
+  ],
+  "linhas": [
+   [
+    "Yahoo Finance",
+    "Preços diários de cripto, ETFs, índices, ouro e dólar",
+    "finance.yahoo.com"
+   ],
+   [
+    "Binance",
+    "Velas de 1 minuto e taxa de financiamento dos perpétuos",
+    "data.binance.vision"
+   ],
+   [
+    "Blockchain.com",
+    "Transações, endereços, taxas, força de computação e receita dos mineradores",
+    "blockchain.com/explorer/charts"
+   ],
+   [
+    "mempool.space",
+    "Blocos, pools de mineração e a rede Lightning",
+    "mempool.space"
+   ],
+   [
+    "DefiLlama",
+    "Stablecoins, valor travado em DeFi, Aave e Compound",
+    "defillama.com"
+   ],
+   [
+    "Farside Investors",
+    "Fluxo diário dos ETFs americanos",
+    "farside.co.uk"
+   ],
+   [
+    "FRED (Federal Reserve de St. Louis)",
+    "M2 e balanço do Fed",
+    "fred.stlouisfed.org"
+   ],
+   [
+    "Banco Central do Brasil",
+    "CDI diário (série 12) e normas",
+    "bcb.gov.br"
+   ],
+   [
+    "CoinGlass",
+    "Liquidações e contratos em aberto",
+    "coinglass.com"
+   ],
+   [
+    "Coinbase e Mercado Bitcoin",
+    "Livro de ofertas em 26/10/2026",
+    "api.exchange.coinbase.com e mercadobitcoin.com.br"
+   ]
+  ]
+ },
+ "normas": [
+  "Lei 8.981/1995, art. 21, e Lei 13.259/2016: alíquotas do ganho de capital",
+  "Lei 9.250/1995, art. 22: isenção de vendas de pequeno valor (R$ 35 mil por mês)",
+  "Lei 11.033/2004, art. 1º: tabela regressiva da renda fixa",
+  "Lei 14.478/2022: marco legal dos ativos virtuais; Decreto 11.563/2023: o Banco Central como regulador",
+  "Lei 14.754/2023: investimentos de pessoa física no exterior; IN RFB 2.180/2024 e o Perguntas e Respostas da Receita sobre a lei",
+  "IN RFB 1.585/2015: renda variável, inclusive ETFs",
+  "IN RFB 2.291/2025: DeCripto, que revogou a IN RFB 1.888/2019",
+  "Resoluções BCB 519, 520 e 521, de 10/11/2025: autorização, funcionamento e câmbio das prestadoras de serviços de ativos virtuais",
+  "Parecer de Orientação CVM 40/2022: tokens como valor mobiliário",
+  "Soluções de Consulta Cosit 214/2021 e 184/2024: permuta e cessão temporária de cripto",
+  "Ato Declaratório Executivo Codar 16/2026: código de DARF 1897",
+  "Decreto 12.499/2025: IOF nas remessas ao exterior"
+ ],
+ "livros_artigos_entrevistas": [
+  "NAKAMOTO, Satoshi. Bitcoin: a peer-to-peer electronic cash system. 2008",
+  "LEMOS, Flávio. Bitcoin na Veia. 1ª edição, 2018",
+  "LEMOS, Flávio. Análise Técnica dos Mercados Financeiros. 4ª edição. Editora Trader Brasil, 2027",
+  "LEMOS, Flávio. Dinheiro: Querer, poder e gastar",
+  "GOLDGAR, Anne. Tulipmania: money, honor, and knowledge in the Dutch Golden Age. University of Chicago Press, 2007",
+  "KEYNES, John Maynard. A teoria geral do emprego, do juro e da moeda. 1936",
+  "SCHWAGER, Jack. Market Wizards. 1989",
+  "STEENBARGER, Brett. The Psychology of Trading. Wiley, 2003",
+  "STEENBARGER, Brett. The Daily Trading Coach. Wiley, 2009",
+  "RODRIGUE, Jean-Paul. Stages in a bubble. Hofstra University",
+  "GARTNER. Hype Cycle, metodologia de ciclos de expectativa de tecnologias",
+  "CHAINALYSIS. Crypto Crime Report, 2026",
+  "Podcast Traders of the World, apresentado pelo autor: entrevistas com Jamie Coutts, CMT, Tom DeMark e Brett Steenbarger"
+ ]
+}
