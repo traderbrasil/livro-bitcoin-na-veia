@@ -1,6 +1,6 @@
 {
  "titulo": "Tabela 5.1 Volatilidade e correlação do ether com o Bitcoin, por ano",
- "fonte": "Yahoo Finance, dias úteis (Laboratório II, Parte 1b). *Até 30/09/2026.",
+ "fonte": "Yahoo Finance, dias úteis (Laboratório II, Parte 1b). *Até 30/09/2026. O ano de 2019 está no Laboratório.",
  "colunas": [
   "Ano",
   "Volatilidade do ether",

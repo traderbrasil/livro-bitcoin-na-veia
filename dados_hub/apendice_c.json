@@ -86,5 +86,22 @@
   "GARTNER. Hype Cycle, metodologia de ciclos de expectativa de tecnologias",
   "CHAINALYSIS. Crypto Crime Report, 2026",
   "Podcast Traders of the World, apresentado pelo autor: entrevistas com Jamie Coutts, CMT, Tom DeMark e Brett Steenbarger"
- ]
+ ],
+ "links_c4": {
+  "NAKAMOTO, Satoshi. Bitcoin: a peer-to-peer electronic cash system. 2008": "https://bitcoin.org/bitcoin.pdf",
+  "LEMOS, Flávio. Bitcoin na Veia. 1ª edição, 2018": "/livros/bitcoin-na-veia",
+  "LEMOS, Flávio. Análise Técnica dos Mercados Financeiros. 4ª edição. Editora Trader Brasil, 2027": "/livros/analise-tecnica",
+  "LEMOS, Flávio. Dinheiro: Querer, poder e gastar": "/livros/dinheiro",
+  "GOLDGAR, Anne. Tulipmania: money, honor, and knowledge in the Dutch Golden Age. University of Chicago Press, 2007": "https://search.worldcat.org/oclc/76897793",
+  "STEENBARGER, Brett. The Psychology of Trading. Wiley, 2003": "https://traderfeed.blogspot.com/",
+  "STEENBARGER, Brett. The Daily Trading Coach. Wiley, 2009": "https://traderfeed.blogspot.com/",
+  "RODRIGUE, Jean-Paul. Stages in a bubble. Hofstra University": "https://transportgeography.org/contents/chapter3/transportation-and-economic-development/bubble-stages/",
+  "GARTNER. Hype Cycle, metodologia de ciclos de expectativa de tecnologias": "https://www.gartner.com/en/research/methodologies/gartner-hype-cycle",
+  "CHAINALYSIS. Crypto Crime Report, 2026": "https://www.chainalysis.com/blog/crypto-scams-2026/"
+ },
+ "links_podcast": {
+  "Jamie Coutts, CMT": "https://www.youtube.com/watch?v=U9fEeOkCJ3o",
+  "Tom DeMark": "https://youtu.be/NRQ6anOsoqM",
+  "Brett Steenbarger": "https://youtu.be/ZG52JawNS6M"
+ }
 }
