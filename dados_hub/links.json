@@ -20,5 +20,7 @@
   "jamie_coutts": "https://www.youtube.com/watch?v=U9fEeOkCJ3o"
  },
  "LINK_BCB_PSAV": "https://www.bcb.gov.br/estabilidadefinanceira/encontreinstituicao",
- "LINK_KINDLE": "https://www.amazon.com.br/s?k=Bitcoin+na+Veia+Fl%C3%A1vio+Lemos (trocar por https://www.amazon.com.br/dp/<ASIN> depois da publicação no KDP)"
+ "LINK_KINDLE": "https://www.amazon.com.br/s?k=Investimentos+em+Cripto+com+Intelig%C3%AAncia+Fl%C3%A1vio+Lemos (trocar por https://www.amazon.com.br/dp/<ASIN> depois da publicação no KDP)",
+ "LINK_CVM_CADASTRO": "https://sistemas.cvm.gov.br/?CadGeral",
+ "LINK_CVM_CADASTRO_nota": "Consulta ao cadastro geral da CVM. O endereço muda com frequência: conferir a cada revisão (último em 24/11/2026)."
 }

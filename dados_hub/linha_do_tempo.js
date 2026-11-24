@@ -1,4 +1,4 @@
-// Linha do tempo do livro (Tabela B.1, Apêndice B). Gerado de cap20.txt. Não editar à mão.
+// Linha do tempo do livro (Tabela B.1, Apêndice B). Gerado de cap21.txt. Não editar à mão.
 // g: protocolo | mercado | produtos | quebras | regulacao
 var EVENTOS = [
  {
@@ -359,6 +359,13 @@ var EVENTOS = [
   "g": "regulacao"
  },
  {
+  "d": "06/05/2025",
+  "t": "A Coinbase lança o x402, para agentes de IA pagarem em stablecoin",
+  "c": "19",
+  "link": "cap-19",
+  "g": "produtos"
+ },
+ {
   "d": "18/07/2025",
   "t": "Lei GENIUS, das stablecoins, nos EUA",
   "c": "6",
@@ -384,6 +391,13 @@ var EVENTOS = [
   "t": "US$ 19,16 bilhões em liquidações num único dia",
   "c": "10 e 11",
   "link": "cap-10",
+  "g": "mercado"
+ },
+ {
+  "d": "30/10/2025",
+  "t": "Acionistas da Core Scientific rejeitam a compra pela CoreWeave, que alugava a energia da mineradora para IA",
+  "c": "19",
+  "link": "cap-19",
   "g": "mercado"
  },
  {
@@ -448,6 +462,13 @@ var EVENTOS = [
   "c": "—",
   "link": "",
   "g": "mercado"
+ },
+ {
+  "d": "29/10/2026",
+  "t": "Roubo de cerca de US$ 6,3 bilhões da Binance, o maior da história das criptomoedas",
+  "c": "8 e 19",
+  "link": "cap-8",
+  "g": "quebras"
  },
  {
   "d": "30/10/2026",

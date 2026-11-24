@@ -1,6 +1,6 @@
 {
  "titulo": "Pedidos de IA",
- "revisao": "28/10/2026",
+ "revisao": "23/11/2026",
  "regras": [
   "A IA ajuda a pensar, mas não faz a conta: confira cada número nos laboratórios do Colab ou na calculadora de imposto.",
   "Nunca envie frase-semente, chave privada, senha, código de autenticação, CPF, número de conta ou chave Pix. Ninguém sério pede isso, nem a IA.",
@@ -14,7 +14,7 @@
    "onde": "Kit de estudo (qualquer capítulo)",
    "link": "",
    "titulo": "o professor que pergunta",
-   "texto": "Estou estudando o Capítulo [número], \"[título]\", do livro *Bitcoin na Veia: do halving ao ETF*, 2ª edição (dados até 30/09/2026). Seja meu professor. Faça uma pergunta por vez sobre [tema do capítulo], espere a minha resposta e me corrija mostrando onde errei. Comece pelo básico e só aumente a dificuldade depois de três acertos seguidos. Não me dê a resposta antes de eu tentar.",
+   "texto": "Estou estudando o Capítulo [número], \"[título]\", do livro *Investimentos em Cripto com Inteligência* (dados até 30/09/2026). Seja meu professor. Faça uma pergunta por vez sobre [tema do capítulo], espere a minha resposta e me corrija mostrando onde errei. Comece pelo básico e só aumente a dificuldade depois de três acertos seguidos. Não me dê a resposta antes de eu tentar.",
    "cuidado": "A IA pode errar fatos com data. Na dúvida, vale o livro e a página do capítulo no hub."
   },
   {
@@ -38,7 +38,7 @@
    "onde": "Kit de estudo (qualquer capítulo)",
    "link": "",
    "titulo": "o plano de estudo",
-   "texto": "Tenho [horas] horas por semana e quero estudar os 18 capítulos do livro em [semanas] semanas. Meu nível hoje é [iniciante, intermediário ou avançado] e meu objetivo é [entender o básico, investir com método, operar]. Monte um plano semana a semana com: capítulos, laboratório do Colab de cada parte (I: Caps. 1 a 4; II: 5 a 8; III: 9 a 11; IV: 12 a 15; V: 16 a 18) e uma revisão a cada parte.",
+   "texto": "Tenho [horas] horas por semana e quero estudar os 19 capítulos do livro em [semanas] semanas. Meu nível hoje é [iniciante, intermediário ou avançado] e meu objetivo é [entender o básico, investir com método, operar]. Monte um plano semana a semana com: capítulos, laboratório do Colab de cada parte (I: Caps. 1 a 4; II: 5 a 8; III: 9 a 11; IV: 12 a 15; V: 16 a 19) e uma revisão a cada parte.",
    "cuidado": "O plano é seu: ajuste ao seu ritmo. Não pule os Capítulos 16 a 18 (risco, imposto e tamanho de posição)."
   },
   {
@@ -94,7 +94,7 @@
    "onde": "Capítulo 6: Altcoins, stablecoins, DeFi e tokens",
    "link": "cap-6",
    "titulo": "o roteiro da altcoin",
-   "texto": "Vou estudar a moeda [nome]. Use estas sete perguntas: que problema resolve, quem controla a emissão, se a rede é segura, se depende de uma empresa, se é valor mobiliário, se tem liquidez e se bate o Bitcoin. Para cada uma, diga que informação eu preciso buscar, onde encontrar e qual seria o sinal de alerta. Não diga se devo comprar.",
+   "texto": "Vou estudar a moeda [nome]. Use estas sete perguntas: que problema resolve, quem controla a emissão, se a rede é segura, se depende de uma empresa, se é valor mobiliário, se tem liquidez e se bate o bitcoin. Para cada uma, diga que informação eu preciso buscar, onde encontrar e qual seria o sinal de alerta. Não diga se devo comprar.",
    "cuidado": "Se você não conseguir responder a todas, a resposta é não comprar (Quadro 6.2)."
   },
   {
@@ -126,7 +126,7 @@
    "onde": "Capítulo 10: Derivativos: futuros, opções e perpétuos",
    "link": "cap-10",
    "titulo": "o que me liquida",
-   "texto": "Explique como funciona a liquidação em um contrato perpétuo com alavancagem de [número] vezes: margem inicial, margem de manutenção, taxa de financiamento e liquidação automática (ADL). Escreva a fórmula do preço de liquidação, sem calcular, e liste os cinco erros de iniciante que mais liquidam posições.",
+   "texto": "Explique como funciona a liquidação em um contrato perpétuo com alavancagem de [número] vezes: margem inicial, margem de manutenção, taxa de financiamento e desalavancagem automática (ADL). Escreva a fórmula do preço de liquidação, sem calcular, e liste os cinco erros de iniciante que mais liquidam posições.",
    "cuidado": "A chance de liquidação por alavancagem está no Gráfico 10.1 e no Laboratório III. Nunca opere alavancado por sugestão de IA."
   },
   {
@@ -192,6 +192,14 @@
    "titulo": "o tamanho que cabe em mim",
    "texto": "Tenho reserva de emergência de [meses] meses, prazo de [anos] anos e já vi a carteira cair [percentual]% sem vender. Me faça perguntas, uma por vez, para eu definir que parte do patrimônio poderia ter em cripto, usando as ideias do capítulo: a maior queda do bitcoin desde 2015, de −83,4% (Tabela 16.1), risco por operação pequeno e o critério de Kelly como limite, nunca como alvo. Não me diga um número; me ajude a chegar ao meu.",
    "cuidado": "O plano financeiro vem antes (Dinheiro: Querer, poder e gastar). Simule no Laboratório V."
+  },
+  {
+   "id": "cap-19",
+   "onde": "Capítulo 19: Inteligência artificial: ferramenta, golpe e narrativa",
+   "link": "cap-19",
+   "titulo": "o advogado do diabo da minha estratégia",
+   "texto": "Minha regra é: [descreva a regra de entrada e de saída]. Testei [quantas] variações de [período] e escolhi a melhor, que ganhou [retorno]% ao ano com queda máxima de [queda]%. Seja o advogado do diabo. Liste, uma por vez, as razões pelas quais esse resultado pode ser sobreajuste: o número de tentativas, a falta de teste fora da amostra, os custos, o deslizamento, o imposto e o período escolhido. Depois, me diga como testar a regra fora da amostra. Não diga se a regra vai dar lucro.",
+   "cuidado": "A IA não roda o teste por você sem os dados. Faça o teste no Laboratório V, Parte 13."
   },
   {
    "id": "apendice-a",

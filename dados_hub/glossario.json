@@ -1,5 +1,14 @@
 [
  {
+  "termo": "agente de IA",
+  "variante": "",
+  "definicao": "programa de IA que executa tarefas sozinho, como pesquisar ou contratar um serviço, e pode pagar com stablecoin ou pela Lightning",
+  "onde": "Capítulo 19",
+  "links": [
+   "cap-19"
+  ]
+ },
+ {
   "termo": "airdrop",
   "variante": "",
   "definicao": "distribuição gratuita de tokens aos usuários de uma rede ou de um aplicativo",
@@ -95,7 +104,7 @@
  {
   "termo": "chave privada e chave pública",
   "variante": "",
-  "definicao": "o par criptográfico que dá o direito de gastar as moedas e o endereço que recebe",
+  "definicao": "o par criptográfico: a chave privada dá o direito de gastar as moedas; da chave pública se deriva o endereço que recebe",
   "onde": "Capítulos 1 e 7",
   "links": [
    "cap-1",
@@ -148,12 +157,30 @@
   ]
  },
  {
+  "termo": "deepfake",
+  "variante": "",
+  "definicao": "vídeo, foto ou áudio falso gerado por IA, que imita o rosto e a voz de uma pessoa real",
+  "onde": "Capítulo 19",
+  "links": [
+   "cap-19"
+  ]
+ },
+ {
   "termo": "DeFi",
   "variante": "",
   "definicao": "finanças descentralizadas, os serviços financeiros feitos por contratos inteligentes",
   "onde": "Capítulo 6",
   "links": [
    "cap-6"
+  ]
+ },
+ {
+  "termo": "dentro e fora da amostra",
+  "variante": "",
+  "definicao": "o período usado para escolher uma regra e o período, guardado, usado para testá-la",
+  "onde": "Capítulo 19",
+  "links": [
+   "cap-19"
   ]
  },
  {
@@ -186,7 +213,7 @@
  {
   "termo": "gap da CME",
   "variante": "",
-  "definicao": "o espaço no gráfico do futuro entre o fechamento de sexta e a abertura de domingo",
+  "definicao": "o espaço no gráfico do futuro entre o fechamento de sexta e a abertura de domingo, até a CME passar a negociar 24 horas, em 29/05/2026",
   "onde": "Capítulo 13",
   "links": [
    "cap-13"
@@ -205,7 +232,7 @@
  {
   "termo": "hard fork e soft fork",
   "variante": "",
-  "definicao": "mudança nas regras que cria outra moeda ou que continua compatível com a anterior",
+  "definicao": "o hard fork é uma mudança incompatível com as regras antigas, que divide a cadeia (e pode criar outra moeda) se parte da rede não aderir; o soft fork continua compatível com as regras anteriores",
   "onde": "Capítulo 4",
   "links": [
    "cap-4"
@@ -219,6 +246,15 @@
   "links": [
    "cap-1",
    "cap-3"
+  ]
+ },
+ {
+  "termo": "hashprice",
+  "variante": "",
+  "definicao": "a receita da mineração por unidade de poder de computação por dia, em dólares por PH/s",
+  "onde": "Capítulo 19",
+  "links": [
+   "cap-19"
   ]
  },
  {
@@ -266,6 +302,15 @@
   "onde": "Capítulo 3",
   "links": [
    "cap-3"
+  ]
+ },
+ {
+  "termo": "modelo de linguagem",
+  "variante": "",
+  "definicao": "programa de IA treinado com texto para prever a próxima palavra, como o ChatGPT, o Claude e o Gemini",
+  "onde": "Capítulo 19",
+  "links": [
+   "cap-19"
   ]
  },
  {
@@ -370,6 +415,15 @@
   ]
  },
  {
+  "termo": "sobreajuste",
+  "variante": "*overfitting*",
+  "definicao": "regra otimizada que decora o acaso do passado e falha no futuro",
+  "onde": "Capítulo 19",
+  "links": [
+   "cap-19"
+  ]
+ },
+ {
   "termo": "stablecoin",
   "variante": "",
   "definicao": "token que busca manter o valor de uma moeda, como o dólar",
@@ -414,6 +468,15 @@
   "onde": "Capítulo 6",
   "links": [
    "cap-6"
+  ]
+ },
+ {
+  "termo": "token de IA",
+  "variante": "",
+  "definicao": "moeda de projeto que promete mercados de computação, dados ou agentes de IA",
+  "onde": "Capítulo 19",
+  "links": [
+   "cap-19"
   ]
  },
  {
