@@ -1,4 +1,4 @@
-# Bitcoin na Veia: do halving ao ETF (2ª edição)
+# Investimentos em Cripto com Inteligência (nova edição de Bitcoin na Veia)
 
 Laboratórios em Python e dados do livro de Flávio Lemos, CMT. Dados de mercado até 30/09/2026.
 
@@ -12,7 +12,7 @@ Hub do livro: https://www.traderbrasil.com/bitcoin-na-veia
 | II · Ecossistema | 5 a 8 | [Colab](https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab2_ecossistema.ipynb) |
 | III · Veículos | 9 a 11 | [Colab](https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab3_veiculos.ipynb) |
 | IV · Análise | 12 a 15 | [Colab](https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab4_analise.ipynb) |
-| V · Risco e imposto | 16 a 18 | [Colab](https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab5_risco_ir.ipynb) |
+| V · Risco, imposto e IA | 16 a 19 | [Colab](https://colab.research.google.com/github/traderbrasil/livro-bitcoin-na-veia/blob/main/labs/lab5_risco_ir.ipynb) |
 
 Cada notebook procura primeiro a cópia dos dados em `labs/dados/`, para reproduzir os números do livro. Sem ela, baixa tudo de novo das fontes públicas (Yahoo Finance, Binance, Blockchain.com, DefiLlama, mempool.space, FRED e Banco Central), e os números podem mudar um pouco.
 
